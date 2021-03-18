@@ -2,3 +2,5 @@ Rencana konten
 
 - Javascript
 - PHP Frameword
+- Front-End Web Develover
+- Back-End Web Developer
