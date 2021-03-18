@@ -2,3 +2,5 @@ NRNG RESOLUSI
 - Belajar Framework Laravel (Rest API)
 - Belajar Reack JS
 - Belajar React Native
+
+- Membuat aplikasi POS dengan React JS dan Laravel API
