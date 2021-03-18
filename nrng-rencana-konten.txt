@@ -1,7 +1,11 @@
 Rencana konten
 
 - Javascript
+  * ES6
 - PHP Frameword
+  * Laravel
 - Front-End Web Develover
+  * React JS
 - Back-End Web Developer
 - UI/UX Design
+- pHyton
