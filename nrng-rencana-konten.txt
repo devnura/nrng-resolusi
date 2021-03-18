@@ -6,5 +6,8 @@ Rencana konten
 - PHP Frameword
   * Laravel
 - Front-End Web Develover
+  * React JS
+  * Vue JS
 - Back-End Web Developer
 - UI/UX Design
+- pHyton
