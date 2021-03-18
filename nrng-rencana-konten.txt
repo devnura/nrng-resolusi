@@ -4,3 +4,4 @@ Rencana konten
 - PHP Frameword
 - Front-End Web Develover
 - Back-End Web Developer
+- UI/UX Design
