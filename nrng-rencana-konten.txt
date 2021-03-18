@@ -1,7 +1,10 @@
 Rencana konten
 
 - Javascript
+  * Angular
+  * React
 - PHP Frameword
+  * Laravel
 - Front-End Web Develover
 - Back-End Web Developer
 - UI/UX Design
