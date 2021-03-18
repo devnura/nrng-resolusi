@@ -1,7 +1,8 @@
 Rencana konten
 
 - Javascript
-  * ES6
+  * Angular
+  * React
 - PHP Frameword
   * Laravel
 - Front-End Web Develover
